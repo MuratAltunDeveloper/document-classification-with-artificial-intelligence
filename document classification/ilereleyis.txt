@@ -1,0 +1,4 @@
+https://www.kaggle.com/code/dmitryyemelyanov/receipt-ocr-part-2-text-recognition-by-tesseract-Makbuz OCR Bölüm 2: Tesseract ile metin tanıma
+başka fatura dataset 2gb:https://www.kaggle.com/datasets/onchutrng/sroie20192021
+başka dataset var küçük:indirdim
+
